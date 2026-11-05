@@ -1,0 +1,10 @@
+﻿[
+  { "numele": "Popescu Ion",      "postul": "Director general",   "data_angajarii": "2018-03-15", "salariul": 9500.0 },
+  { "numele": "Ionescu Maria",    "postul": "Sef departament IT",  "data_angajarii": "2025-04-07", "salariul": 7200.0 },
+  { "numele": "Georgescu Andrei", "postul": "Director vanzari",    "data_angajarii": "2025-04-22", "salariul": 6800.0 },
+  { "numele": "Munteanu Elena",   "postul": "Programator",         "data_angajarii": "2025-04-10", "salariul": 4800.0 },
+  { "numele": "Rusu Ion",         "postul": "Contabil",            "data_angajarii": "2025-07-01", "salariul": 2900.0 },
+  { "numele": "Dumitru Ana",      "postul": "Secretara",           "data_angajarii": "2025-08-18", "salariul": 2300.0 },
+  { "numele": "Stan Mihai",       "postul": "Tester",              "data_angajarii": "2025-06-05", "salariul": 2700.0 },
+  { "numele": "Ciobanu Vlad",     "postul": "Operator date",       "data_angajarii": "2023-11-20", "salariul": 2100.0 }
+]
